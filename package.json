@@ -1,0 +1,25 @@
+{
+  "name": "give-me-sugar",
+  "version": "1.0.0",
+  "description": "Scrapped all the products from https://sugarcosmetics.com/",
+  "main": "scrapper.js",
+  "scripts": {
+    "start": "node scrapper.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SelinJodhani/GiveMeSugar.git"
+  },
+  "author": "Selin Jodhani",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SelinJodhani/GiveMeSugar/issues"
+  },
+  "homepage": "https://github.com/SelinJodhani/GiveMeSugar#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.10",
+    "csv-writer": "^1.6.0",
+    "pretty": "^2.0.0",
+    "puppeteer": "^13.5.2"
+  }
+}
