@@ -107,8 +107,6 @@ const scrape = async URL => {
 };
 
 (async () => {
-  console.log('');
-
   await Promise.all([
     scrape('https://sugarcosmetics.com/makeup/lips-makeup'),
     scrape('https://sugarcosmetics.com/makeup/face-makeup'),
