@@ -46,3 +46,11 @@ If you need to update `npm`, you can make it using `npm`! Cool right? After runn
 ## Running the project
 
     $ npm start
+
+## Console Output
+
+![console-output](https://github.com/SelinJodhani/GiveMeSugar/blob/master/uploads/console-output.png)
+
+## CSV File Output
+
+![csv-output](https://github.com/SelinJodhani/GiveMeSugar/blob/master/uploads/csv-output.png)
